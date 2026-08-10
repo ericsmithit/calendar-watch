@@ -1,0 +1,16 @@
+{
+  "name": "calendar-watch",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Watches public iCal/webcal calendars and emails a diff (via Resend) when events change.",
+  "scripts": {
+    "check": "node check-calendar.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "node-ical": "^0.20.1"
+  }
+}

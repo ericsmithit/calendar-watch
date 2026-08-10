@@ -1,0 +1,50 @@
+name: Calendar Watch
+
+# Runs twice a day and on manual dispatch. Compares each configured calendar
+# against the committed snapshot in state/ and emails the diff via Resend.
+on:
+  schedule:
+    - cron: "0 13 * * *" # 13:00 UTC (~6am PT / 9am ET)
+    - cron: "0 1 * * *" #  01:00 UTC (~5pm PT / 8pm ET)
+  workflow_dispatch: {}
+
+# Needed so the job can commit the updated snapshot back to the repo.
+permissions:
+  contents: write
+
+concurrency:
+  group: calendar-watch
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Check calendars
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+        run: node check-calendar.mjs
+
+      - name: Commit updated snapshots
+        if: always()
+        run: |
+          if [[ -n "$(git status --porcelain state)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add state
+            git commit -m "chore(calendar-watch): update snapshot [skip ci]"
+            git push
+          else
+            echo "No snapshot changes to commit."
+          fi
