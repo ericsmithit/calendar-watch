@@ -1,5 +1,6 @@
 name: Calendar Watch
 
+# Watches public iCal/webcal calendars and emails a diff when events change.
 # Runs twice a day and on manual dispatch. Compares each configured calendar
 # against the committed snapshot in state/ and emails the diff via Resend.
 on:
