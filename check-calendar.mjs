@@ -187,7 +187,7 @@ function diff(prevEvents, currEvents) {
 function buildEmail(calendar, changes) {
   const { added, removed, changed } = changes;
   const total = added.length + removed.length + changed.length;
-  const subject = `Calendar updated: ${calendar.name} (${total} change${
+  const subject = `${calendar.name} Calendar updated: (${total} change${
     total === 1 ? "" : "s"
   })`;
 
