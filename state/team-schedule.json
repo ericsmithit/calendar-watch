@@ -1,7 +1,7 @@
 {
   "name": "Warriors 18UAA",
   "url": "webcal://ical-cdn.teamsnap.com/team_schedule/ed2ea8c0-4e36-433f-aa21-f7f0557d86b4.ics",
-  "updatedAt": "2026-08-22T02:07:31.203Z",
+  "updatedAt": "2026-08-24T02:14:44.749Z",
   "events": {
     "10621788-368980308": {
       "sig": "18UAA (2008/2009) - Gym|7235 Haley Industrial Drive Nolensville, TN 37135|2026-08-05T00:30:06.000Z|2026-08-05T01:30:06.000Z|Location: Nolensville Ice Arena\n There will be a brief players meeting upstairs in the video room @ 7:30pm. Please be on time !!\n\nMake sure players have the appropriate workout attire:\n\nRunning shoes\nShorts/sweat pants\n\nFlip flops, crocs and I forgot are not acceptable.  (Arrival Time:  7:30 PM (Central Time (US & Canada)))||",
@@ -633,21 +633,6 @@
       "summary": "18UAA (2008/2009) vs Team Kentucky",
       "when": "Sun, Aug 30, 2026, 1:45 PM EDT"
     },
-    "10621788-370206610": {
-      "sig": "18UAA (2008/2009) - NAR Music City Kickoff|222 25th Ave N\nNashville TN 37203\nUnited States|2026-09-04T05:00:00.000Z|2026-09-05T05:00:00.000Z|Location: Centennial Sportsplex\n   (Arrival Time: 10:20 AM (Central Time (US & Canada)))||",
-      "summary": "18UAA (2008/2009) - NAR Music City Kickoff",
-      "when": "Fri, Sep 4, 2026, 1:00 AM EDT"
-    },
-    "10621788-370206611": {
-      "sig": "18UAA (2008/2009) - NAR Music City Kickoff|222 25th Ave N\nNashville TN 37203\nUnited States|2026-09-05T05:00:00.000Z|2026-09-06T05:00:00.000Z|Location: Centennial Sportsplex\n   (Arrival Time: 10:20 AM (Central Time (US & Canada)))||",
-      "summary": "18UAA (2008/2009) - NAR Music City Kickoff",
-      "when": "Sat, Sep 5, 2026, 1:00 AM EDT"
-    },
-    "10621788-370206612": {
-      "sig": "18UAA (2008/2009) - NAR Music City Kickoff|222 25th Ave N\nNashville TN 37203\nUnited States|2026-09-06T05:00:00.000Z|2026-09-07T05:00:00.000Z|Location: Centennial Sportsplex\n   (Arrival Time: 10:20 AM (Central Time (US & Canada)))||",
-      "summary": "18UAA (2008/2009) - NAR Music City Kickoff",
-      "when": "Sun, Sep 6, 2026, 1:00 AM EDT"
-    },
     "10621788-370206613": {
       "sig": "18UAA (2008/2009) - NAR Music City Kickoff|222 25th Ave N\nNashville TN 37203\nUnited States|2026-09-07T05:00:00.000Z|2026-09-08T05:00:00.000Z|Location: Centennial Sportsplex\n   (Arrival Time: 10:20 AM (Central Time (US & Canada)))||",
       "summary": "18UAA (2008/2009) - NAR Music City Kickoff",
@@ -862,6 +847,26 @@
       "sig": "18UAA (2008/2009) vs Atlanta Madhatters|7235 Haley Industrial Drive Nolensville, TN 37135|2027-02-21T15:15:34.000Z|2027-02-21T15:15:34.000Z|Location: Nolensville Ice Arena\n   (Arrival Time:  8:00 AM (Central Time (US & Canada)))||",
       "summary": "18UAA (2008/2009) vs Atlanta Madhatters",
       "when": "Sun, Feb 21, 2027, 10:15 AM EST"
+    },
+    "10621788-372370311": {
+      "sig": "18UAA (2008/2009) at Nashville Flyers|222 25th Ave N\nNashville TN 37203\nUnited States|2026-09-05T17:25:40.000Z|2026-09-05T17:25:40.000Z|Location: Centennial Sportsplex - Rink A\n   (Arrival Time: 11:10 AM (Central Time (US & Canada)))||",
+      "summary": "18UAA (2008/2009) at Nashville Flyers",
+      "when": "Sat, Sep 5, 2026, 1:25 PM EDT"
+    },
+    "10621788-372370619": {
+      "sig": "18UAA (2008/2009) vs Nashville Jr. Predators|7235 Haley Industrial Drive Nolensville, TN 37135|2026-09-06T01:15:37.000Z|2026-09-06T01:15:37.000Z|Location: Nolensville Ice Arena\n   (Arrival Time:  7:00 PM (Central Time (US & Canada)))||",
+      "summary": "18UAA (2008/2009) vs Nashville Jr. Predators",
+      "when": "Sat, Sep 5, 2026, 9:15 PM EDT"
+    },
+    "10621788-372370914": {
+      "sig": "18UAA (2008/2009) at St. Louis Sting|222 25th Ave N\nNashville TN 37203\nUnited States|2026-09-06T15:00:04.000Z|2026-09-06T15:00:04.000Z|Location: Centennial Sportsplex - Rink B\n   (Arrival Time:  8:45 AM (Central Time (US & Canada)))||",
+      "summary": "18UAA (2008/2009) at St. Louis Sting",
+      "when": "Sun, Sep 6, 2026, 11:00 AM EDT"
+    },
+    "10621788-372371072": {
+      "sig": "18UAA (2008/2009) at Atlanta Phoenix|222 25th Ave N\nNashville TN 37203\nUnited States|2026-09-07T01:30:21.000Z|2026-09-07T01:30:21.000Z|Location: Centennial Sportsplex - Rink B\n   (Arrival Time:  7:15 PM (Central Time (US & Canada)))||",
+      "summary": "18UAA (2008/2009) at Atlanta Phoenix",
+      "when": "Sun, Sep 6, 2026, 9:30 PM EDT"
     }
   }
 }
