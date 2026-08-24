@@ -94,10 +94,15 @@ function normalize(icsText, timezone) {
       rrule,
     ].join("|");
 
+    // Display each event in the timezone where it actually happens. node-ical
+    // attaches the event's TZID (from DTSTART;TZID=...) as ev.start.tz; fall
+    // back to the calendar's configured default when an event carries none.
+    const eventTz = (ev.start && ev.start.tz) || timezone;
+
     events[key] = {
       sig,
       summary: (ev.summary || "(no title)").trim(),
-      when: formatWhen(ev.start, timezone),
+      when: formatWhen(ev.start, eventTz),
     };
   };
 
