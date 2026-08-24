@@ -44,7 +44,9 @@ The **first run** for a calendar just records a baseline — it does not email.
 
 - `slug` — unique id; also the snapshot filename (`state/<slug>.json`).
 - `url` — the `webcal://` or `https://` `.ics` link (webcal is auto-converted).
-- `timezone` — IANA tz used to display event times in the email.
+- `timezone` — IANA tz used as a **fallback** for displaying event times.
+  Each event is shown in its own timezone when the feed provides one
+  (`DTSTART;TZID=...`); this value is only used for events that carry none.
 - `recipients` — who gets the diff email for this calendar.
 - `bcc` — optional list applied to every email (e.g. an archive address).
 
