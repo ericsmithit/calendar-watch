@@ -1,7 +1,7 @@
 {
   "name": "Warriors 18UAA",
   "url": "webcal://ical-cdn.teamsnap.com/team_schedule/ed2ea8c0-4e36-433f-aa21-f7f0557d86b4.ics",
-  "updatedAt": "2026-09-19T05:13:33.010Z",
+  "updatedAt": "2026-10-04T17:08:49.141Z",
   "events": {
     "10621788-368980308": {
       "sig": "18UAA (2008/2009) - Gym|7235 Haley Industrial Drive Nolensville, TN 37135|2026-08-05T00:30:06.000Z|2026-08-05T01:30:06.000Z|Location: Nolensville Ice Arena\n There will be a brief players meeting upstairs in the video room @ 7:30pm. Please be on time !!\n\nMake sure players have the appropriate workout attire:\n\nRunning shoes\nShorts/sweat pants\n\nFlip flops, crocs and I forgot are not acceptable.  (Arrival Time:  7:30 PM (Central Time (US & Canada)))||",
@@ -633,16 +633,6 @@
       "summary": "18UAA (2008/2009) vs Team Kentucky",
       "when": "Sun, Aug 30, 2026, 12:45 PM CDT"
     },
-    "10621788-370206637": {
-      "sig": "18UAA (2008/2009) - TPH Nashvegas Fall Showdown|7638B Hwy 70 S\nNashville TN 37221\nUnited States|2026-10-10T05:00:00.000Z|2026-10-11T05:00:00.000Z|Location: Ford Ice Center\n   (Arrival Time: 10:25 AM (Central Time (US & Canada)))||",
-      "summary": "18UAA (2008/2009) - TPH Nashvegas Fall Showdown",
-      "when": "Sat, Oct 10, 2026, 12:00 AM CDT"
-    },
-    "10621788-370206638": {
-      "sig": "18UAA (2008/2009) - TPH Nashvegas Fall Showdown|7638B Hwy 70 S\nNashville TN 37221\nUnited States|2026-10-11T05:00:00.000Z|2026-10-12T05:00:00.000Z|Location: Ford Ice Center\n   (Arrival Time: 10:25 AM (Central Time (US & Canada)))||",
-      "summary": "18UAA (2008/2009) - TPH Nashvegas Fall Showdown",
-      "when": "Sun, Oct 11, 2026, 12:00 AM CDT"
-    },
     "10621788-370206700": {
       "sig": "18UAA (2008/2009) - Grinder Hockey Tonk Nashville|7235 Haley Industrial Drive Nolensville, TN 37135|2026-10-23T05:00:00.000Z|2026-10-24T05:00:00.000Z|Location: Nolensville Ice Arena\n   (Arrival Time: 10:25 AM (Central Time (US & Canada)))||",
       "summary": "18UAA (2008/2009) - Grinder Hockey Tonk Nashville",
@@ -844,9 +834,24 @@
       "when": "Sun, Sep 6, 2026, 8:30 PM CDT"
     },
     "10621788-373962382": {
-      "sig": "18UAA (2008/2009) - TPH Nashvegas Fall Showdown|7638B Hwy 70 S\nNashville TN 37221\nUnited States|2026-10-12T05:00:00.000Z|2026-10-13T05:00:00.000Z|Location: Ford Ice Center\n   (Arrival Time: 12:40 PM (Central Time (US & Canada)))||",
+      "sig": "18UAA (2008/2009) - TPH Nashvegas Fall Showdown|7638B Hwy 70 S\nNashville TN 37221\nUnited States|2026-10-12T15:00:01.000Z|2026-10-12T22:00:01.000Z|Location: Ford Ice Center\n   (Arrival Time: 10:00 AM (Central Time (US & Canada)))||",
       "summary": "18UAA (2008/2009) - TPH Nashvegas Fall Showdown",
-      "when": "Mon, Oct 12, 2026, 12:00 AM CDT"
+      "when": "Mon, Oct 12, 2026, 10:00 AM CDT"
+    },
+    "10621788-374679664": {
+      "sig": "18UAA (2008/2009) vs Atlanta Ice Bandits|7638B Hwy 70 S\nNashville TN 37221\nUnited States|2026-10-10T21:15:22.000Z|2026-10-10T21:15:22.000Z|Location: Ford Ice Center - Rink 2\n   (Arrival Time:  3:00 PM (Central Time (US & Canada)))||",
+      "summary": "18UAA (2008/2009) vs Atlanta Ice Bandits",
+      "when": "Sat, Oct 10, 2026, 4:15 PM CDT"
+    },
+    "10621788-374679755": {
+      "sig": "18UAA (2008/2009) at Red Bank Generals|5264 Hickory Hollow Pkwy\nAntioch TN 37013\nUnited States|2026-10-11T17:00:45.000Z|2026-10-11T17:00:45.000Z|Location: Ford Ice Center - North rink\n   (Arrival Time: 10:45 AM (Central Time (US & Canada)))||",
+      "summary": "18UAA (2008/2009) at Red Bank Generals",
+      "when": "Sun, Oct 11, 2026, 12:00 PM CDT"
+    },
+    "10621788-374679822": {
+      "sig": "18UAA (2008/2009) vs Dupage Stars Varsity|5264 Hickory Hollow Pkwy\nAntioch TN 37013\nUnited States|2026-10-12T02:30:57.000Z|2026-10-12T02:30:57.000Z|Location: Ford Ice Center - North rink\n   (Arrival Time:  8:15 PM (Central Time (US & Canada)))||",
+      "summary": "18UAA (2008/2009) vs Dupage Stars Varsity",
+      "when": "Sun, Oct 11, 2026, 9:30 PM CDT"
     }
   }
 }
