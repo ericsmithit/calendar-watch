@@ -1,7 +1,7 @@
 {
   "name": "Warriors 18UAA",
   "url": "webcal://ical-cdn.teamsnap.com/team_schedule/ed2ea8c0-4e36-433f-aa21-f7f0557d86b4.ics",
-  "updatedAt": "2026-10-04T17:08:49.141Z",
+  "updatedAt": "2026-10-12T06:40:47.259Z",
   "events": {
     "10621788-368980308": {
       "sig": "18UAA (2008/2009) - Gym|7235 Haley Industrial Drive Nolensville, TN 37135|2026-08-05T00:30:06.000Z|2026-08-05T01:30:06.000Z|Location: Nolensville Ice Arena\n There will be a brief players meeting upstairs in the video room @ 7:30pm. Please be on time !!\n\nMake sure players have the appropriate workout attire:\n\nRunning shoes\nShorts/sweat pants\n\nFlip flops, crocs and I forgot are not acceptable.  (Arrival Time:  7:30 PM (Central Time (US & Canada)))||",
@@ -833,11 +833,6 @@
       "summary": "18UAA (2008/2009) at Atlanta Phoenix",
       "when": "Sun, Sep 6, 2026, 8:30 PM CDT"
     },
-    "10621788-373962382": {
-      "sig": "18UAA (2008/2009) - TPH Nashvegas Fall Showdown|7638B Hwy 70 S\nNashville TN 37221\nUnited States|2026-10-12T15:00:01.000Z|2026-10-12T22:00:01.000Z|Location: Ford Ice Center\n   (Arrival Time: 10:00 AM (Central Time (US & Canada)))||",
-      "summary": "18UAA (2008/2009) - TPH Nashvegas Fall Showdown",
-      "when": "Mon, Oct 12, 2026, 10:00 AM CDT"
-    },
     "10621788-374679664": {
       "sig": "18UAA (2008/2009) vs Atlanta Ice Bandits|7638B Hwy 70 S\nNashville TN 37221\nUnited States|2026-10-10T21:15:22.000Z|2026-10-10T21:15:22.000Z|Location: Ford Ice Center - Rink 2\n   (Arrival Time:  3:00 PM (Central Time (US & Canada)))||",
       "summary": "18UAA (2008/2009) vs Atlanta Ice Bandits",
@@ -852,6 +847,11 @@
       "sig": "18UAA (2008/2009) vs Dupage Stars Varsity|5264 Hickory Hollow Pkwy\nAntioch TN 37013\nUnited States|2026-10-12T02:30:57.000Z|2026-10-12T02:30:57.000Z|Location: Ford Ice Center - North rink\n   (Arrival Time:  8:15 PM (Central Time (US & Canada)))||",
       "summary": "18UAA (2008/2009) vs Dupage Stars Varsity",
       "when": "Sun, Oct 11, 2026, 9:30 PM CDT"
+    },
+    "10621788-375023300": {
+      "sig": "18UAA (2008/2009) at Dupage Stars Varsity|7638B Hwy 70 S\nNashville TN 37221\nUnited States|2026-10-12T15:15:36.000Z|2026-10-12T15:15:36.000Z|Location: Ford Ice Center - Rink 2\n   (Arrival Time:  9:00 AM (Central Time (US & Canada)))||",
+      "summary": "18UAA (2008/2009) at Dupage Stars Varsity",
+      "when": "Mon, Oct 12, 2026, 10:15 AM CDT"
     }
   }
 }
