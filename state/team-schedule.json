@@ -1,7 +1,7 @@
 {
   "name": "Warriors 18UAA",
   "url": "webcal://ical-cdn.teamsnap.com/team_schedule/ed2ea8c0-4e36-433f-aa21-f7f0557d86b4.ics",
-  "updatedAt": "2026-10-12T06:40:47.259Z",
+  "updatedAt": "2026-10-17T05:08:48.558Z",
   "events": {
     "10621788-368980308": {
       "sig": "18UAA (2008/2009) - Gym|7235 Haley Industrial Drive Nolensville, TN 37135|2026-08-05T00:30:06.000Z|2026-08-05T01:30:06.000Z|Location: Nolensville Ice Arena\n There will be a brief players meeting upstairs in the video room @ 7:30pm. Please be on time !!\n\nMake sure players have the appropriate workout attire:\n\nRunning shoes\nShorts/sweat pants\n\nFlip flops, crocs and I forgot are not acceptable.  (Arrival Time:  7:30 PM (Central Time (US & Canada)))||",
@@ -369,8 +369,8 @@
       "when": "Thu, Oct 29, 2026, 7:45 PM CDT"
     },
     "10621788-368980495": {
-      "sig": "18UAA (2008/2009) - Gym|7235 Haley Industrial Drive Nolensville, TN 37135|2026-11-06T01:45:11.000Z|2026-11-06T02:45:11.000Z|Location: Nolensville Ice Arena\n   (Arrival Time:  7:45 PM (Central Time (US & Canada)))||",
-      "summary": "18UAA (2008/2009) - Gym",
+      "sig": "[CANCELED] 18UAA (2008/2009) - Gym|7235 Haley Industrial Drive Nolensville, TN 37135|2026-11-06T01:45:11.000Z|2026-11-06T02:45:11.000Z|[CANCELED] Location: Nolensville Ice Arena||",
+      "summary": "[CANCELED] 18UAA (2008/2009) - Gym",
       "when": "Thu, Nov 5, 2026, 7:45 PM CST"
     },
     "10621788-368980496": {
@@ -384,8 +384,8 @@
       "when": "Thu, Nov 19, 2026, 7:45 PM CST"
     },
     "10621788-368980498": {
-      "sig": "18UAA (2008/2009) - Gym|7235 Haley Industrial Drive Nolensville, TN 37135|2026-11-27T01:45:11.000Z|2026-11-27T02:45:11.000Z|Location: Nolensville Ice Arena\n   (Arrival Time:  7:45 PM (Central Time (US & Canada)))||",
-      "summary": "18UAA (2008/2009) - Gym",
+      "sig": "[CANCELED] 18UAA (2008/2009) - Gym|7235 Haley Industrial Drive Nolensville, TN 37135|2026-11-27T01:45:11.000Z|2026-11-27T02:45:11.000Z|[CANCELED] Location: Nolensville Ice Arena||",
+      "summary": "[CANCELED] 18UAA (2008/2009) - Gym",
       "when": "Thu, Nov 26, 2026, 7:45 PM CST"
     },
     "10621788-368980499": {
@@ -519,8 +519,8 @@
       "when": "Thu, Oct 29, 2026, 9:00 PM CDT"
     },
     "10621788-368980560": {
-      "sig": "18UAA (2008/2009) - Ice|7235 Haley Industrial Drive Nolensville, TN 37135|2026-11-06T03:00:17.000Z|2026-11-06T04:00:17.000Z|Location: Nolensville Ice Arena\n   (Arrival Time:  9:00 PM (Central Time (US & Canada)))||",
-      "summary": "18UAA (2008/2009) - Ice",
+      "sig": "[CANCELED] 18UAA (2008/2009) - Ice|7235 Haley Industrial Drive Nolensville, TN 37135|2026-11-06T03:00:17.000Z|2026-11-06T04:00:17.000Z|[CANCELED] Location: Nolensville Ice Arena||",
+      "summary": "[CANCELED] 18UAA (2008/2009) - Ice",
       "when": "Thu, Nov 5, 2026, 9:00 PM CST"
     },
     "10621788-368980561": {
@@ -534,8 +534,8 @@
       "when": "Thu, Nov 19, 2026, 9:00 PM CST"
     },
     "10621788-368980563": {
-      "sig": "18UAA (2008/2009) - Ice|7235 Haley Industrial Drive Nolensville, TN 37135|2026-11-27T03:00:17.000Z|2026-11-27T04:00:17.000Z|Location: Nolensville Ice Arena\n   (Arrival Time:  9:00 PM (Central Time (US & Canada)))||",
-      "summary": "18UAA (2008/2009) - Ice",
+      "sig": "[CANCELED] 18UAA (2008/2009) - Ice|7235 Haley Industrial Drive Nolensville, TN 37135|2026-11-27T03:00:17.000Z|2026-11-27T04:00:17.000Z|[CANCELED] Location: Nolensville Ice Arena||",
+      "summary": "[CANCELED] 18UAA (2008/2009) - Ice",
       "when": "Thu, Nov 26, 2026, 9:00 PM CST"
     },
     "10621788-368980564": {
@@ -633,19 +633,9 @@
       "summary": "18UAA (2008/2009) vs Team Kentucky",
       "when": "Sun, Aug 30, 2026, 12:45 PM CDT"
     },
-    "10621788-370206700": {
-      "sig": "18UAA (2008/2009) - Grinder Hockey Tonk Nashville|7235 Haley Industrial Drive Nolensville, TN 37135|2026-10-23T05:00:00.000Z|2026-10-24T05:00:00.000Z|Location: Nolensville Ice Arena\n   (Arrival Time: 10:25 AM (Central Time (US & Canada)))||",
-      "summary": "18UAA (2008/2009) - Grinder Hockey Tonk Nashville",
-      "when": "Fri, Oct 23, 2026, 12:00 AM CDT"
-    },
-    "10621788-370206701": {
-      "sig": "18UAA (2008/2009) - Grinder Hockey Tonk Nashville|7235 Haley Industrial Drive Nolensville, TN 37135|2026-10-24T05:00:00.000Z|2026-10-25T05:00:00.000Z|Location: Nolensville Ice Arena\n   (Arrival Time: 10:25 AM (Central Time (US & Canada)))||",
-      "summary": "18UAA (2008/2009) - Grinder Hockey Tonk Nashville",
-      "when": "Sat, Oct 24, 2026, 12:00 AM CDT"
-    },
     "10621788-370206702": {
-      "sig": "18UAA (2008/2009) - Grinder Hockey Tonk Nashville|7235 Haley Industrial Drive Nolensville, TN 37135|2026-10-25T05:00:00.000Z|2026-10-26T05:00:00.000Z|Location: Nolensville Ice Arena\n   (Arrival Time: 10:25 AM (Central Time (US & Canada)))||",
-      "summary": "18UAA (2008/2009) - Grinder Hockey Tonk Nashville",
+      "sig": "18UAA (2008/2009) - 9:45am Consolation/12:20 Championship|7235 Haley Industrial Drive Nolensville, TN 37135|2026-10-25T05:00:00.000Z|2026-10-26T05:00:00.000Z|Location: Nolensville Ice Arena\n   (Arrival Time: 10:25 AM (Central Time (US & Canada)))||",
+      "summary": "18UAA (2008/2009) - 9:45am Consolation/12:20 Championship",
       "when": "Sun, Oct 25, 2026, 12:00 AM CDT"
     },
     "10621788-370206761": {
@@ -852,6 +842,21 @@
       "sig": "18UAA (2008/2009) at Dupage Stars Varsity|7638B Hwy 70 S\nNashville TN 37221\nUnited States|2026-10-12T15:15:36.000Z|2026-10-12T15:15:36.000Z|Location: Ford Ice Center - Rink 2\n   (Arrival Time:  9:00 AM (Central Time (US & Canada)))||",
       "summary": "18UAA (2008/2009) at Dupage Stars Varsity",
       "when": "Mon, Oct 12, 2026, 10:15 AM CDT"
+    },
+    "10621788-375255385": {
+      "sig": "18UAA (2008/2009) vs OPRF Huskies Varsity|7235 Haley Industrial Drive Nolensville, TN 37135|2026-10-23T18:15:02.000Z|2026-10-23T18:15:02.000Z|Location: Nolensville Ice Arena\n   (Arrival Time: 12:00 PM (Central Time (US & Canada)))||",
+      "summary": "18UAA (2008/2009) vs OPRF Huskies Varsity",
+      "when": "Fri, Oct 23, 2026, 1:15 PM CDT"
+    },
+    "10621788-375255406": {
+      "sig": "18UAA (2008/2009) at Aurora Tigers|7235 Haley Industrial Drive Nolensville, TN 37135|2026-10-24T00:45:53.000Z|2026-10-24T00:45:53.000Z|Location: Nolensville Ice Arena\n   (Arrival Time:  6:30 PM (Central Time (US & Canada)))||",
+      "summary": "18UAA (2008/2009) at Aurora Tigers",
+      "when": "Fri, Oct 23, 2026, 7:45 PM CDT"
+    },
+    "10621788-375255433": {
+      "sig": "18UAA (2008/2009) at Gulf Coast Flames White|7235 Haley Industrial Drive Nolensville, TN 37135|2026-10-24T22:00:58.000Z|2026-10-24T22:00:58.000Z|Location: Nolensville Ice Arena\n   (Arrival Time:  3:45 PM (Central Time (US & Canada)))||",
+      "summary": "18UAA (2008/2009) at Gulf Coast Flames White",
+      "when": "Sat, Oct 24, 2026, 5:00 PM CDT"
     }
   }
 }
