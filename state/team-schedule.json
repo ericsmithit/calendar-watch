@@ -1,7 +1,7 @@
 {
   "name": "Warriors 18UAA",
   "url": "webcal://ical-cdn.teamsnap.com/team_schedule/ed2ea8c0-4e36-433f-aa21-f7f0557d86b4.ics",
-  "updatedAt": "2026-10-18T05:14:24.448Z",
+  "updatedAt": "2026-10-25T05:26:38.166Z",
   "events": {
     "10621788-368980308": {
       "sig": "18UAA (2008/2009) - Gym|7235 Haley Industrial Drive Nolensville, TN 37135|2026-08-05T00:30:06.000Z|2026-08-05T01:30:06.000Z|Location: Nolensville Ice Arena\n There will be a brief players meeting upstairs in the video room @ 7:30pm. Please be on time !!\n\nMake sure players have the appropriate workout attire:\n\nRunning shoes\nShorts/sweat pants\n\nFlip flops, crocs and I forgot are not acceptable.  (Arrival Time:  7:30 PM (Central Time (US & Canada)))||",
@@ -633,11 +633,6 @@
       "summary": "18UAA (2008/2009) vs Team Kentucky",
       "when": "Sun, Aug 30, 2026, 12:45 PM CDT"
     },
-    "10621788-370206702": {
-      "sig": "18UAA (2008/2009) - 9:45am Consolation/12:20 Championship|7235 Haley Industrial Drive Nolensville, TN 37135|2026-10-25T05:00:00.000Z|2026-10-26T05:00:00.000Z|Location: Nolensville Ice Arena\n   (Arrival Time: 10:25 AM (Central Time (US & Canada)))||",
-      "summary": "18UAA (2008/2009) - 9:45am Consolation/12:20 Championship",
-      "when": "Sun, Oct 25, 2026, 12:00 AM CDT"
-    },
     "10621788-370206762": {
       "sig": "18UAA (2008/2009) - 4th game TBD|Chicago IL\nUnited States|2026-11-07T20:30:40.000Z|2026-11-08T02:30:40.000Z|Location: Chicago\n   (Arrival Time:  2:30 PM (Central Time (US & Canada)))||",
       "summary": "18UAA (2008/2009) - 4th game TBD",
@@ -867,6 +862,11 @@
       "sig": "18UAA (2008/2009) at Frederick Freeze|10700 W 160th St\nOrland Park IL 60467\nUnited States|2026-11-07T18:05:32.000Z|2026-11-07T18:05:32.000Z|Location: Arctic Ice Arena - NHL rink\n   (Arrival Time: 10:50 AM (Central Time (US & Canada)))||",
       "summary": "18UAA (2008/2009) at Frederick Freeze",
       "when": "Sat, Nov 7, 2026, 12:05 PM CST"
+    },
+    "10621788-375559176": {
+      "sig": "18UAA (2008/2009) at Aurora Tigers|7235 Haley Industrial Drive Nolensville, TN 37135|2026-10-25T17:20:14.000Z|2026-10-25T17:20:14.000Z|Location: Nolensville Ice Arena\n   (Arrival Time: 12:20 PM (Central Time (US & Canada)))||",
+      "summary": "18UAA (2008/2009) at Aurora Tigers",
+      "when": "Sun, Oct 25, 2026, 12:20 PM CDT"
     }
   }
 }
