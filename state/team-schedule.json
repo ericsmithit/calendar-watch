@@ -1,7 +1,7 @@
 {
   "name": "Warriors 18UAA",
   "url": "webcal://ical-cdn.teamsnap.com/team_schedule/ed2ea8c0-4e36-433f-aa21-f7f0557d86b4.ics",
-  "updatedAt": "2026-10-25T05:26:38.166Z",
+  "updatedAt": "2026-10-27T05:45:58.668Z",
   "events": {
     "10621788-368980308": {
       "sig": "18UAA (2008/2009) - Gym|7235 Haley Industrial Drive Nolensville, TN 37135|2026-08-05T00:30:06.000Z|2026-08-05T01:30:06.000Z|Location: Nolensville Ice Arena\n There will be a brief players meeting upstairs in the video room @ 7:30pm. Please be on time !!\n\nMake sure players have the appropriate workout attire:\n\nRunning shoes\nShorts/sweat pants\n\nFlip flops, crocs and I forgot are not acceptable.  (Arrival Time:  7:30 PM (Central Time (US & Canada)))||",
@@ -657,21 +657,6 @@
       "sig": "18UAA (2008/2009) - TPH Hockey Tonk|7638B Hwy 70 S\nNashville TN 37221\nUnited States|2026-11-15T06:00:00.000Z|2026-11-16T06:00:00.000Z|Location: Ford Ice Center\n   (Arrival Time: 10:25 AM (Central Time (US & Canada)))||",
       "summary": "18UAA (2008/2009) - TPH Hockey Tonk",
       "when": "Sun, Nov 15, 2026, 12:00 AM CST"
-    },
-    "10621788-370206886": {
-      "sig": "18UAA (2008/2009) - Pittsburgh Winter Classic|990 Castle Shannon Blvd\nPittsburgh PA 15234\nUnited States|2026-12-11T06:00:00.000Z|2026-12-12T06:00:00.000Z|Location: Ice Castle Arena\n   (Arrival Time: 10:30 AM (Central Time (US & Canada)))||",
-      "summary": "18UAA (2008/2009) - Pittsburgh Winter Classic",
-      "when": "Fri, Dec 11, 2026, 12:00 AM CST"
-    },
-    "10621788-370206887": {
-      "sig": "18UAA (2008/2009) - Pittsburgh Winter Classic|990 Castle Shannon Blvd\nPittsburgh PA 15234\nUnited States|2026-12-12T06:00:00.000Z|2026-12-13T06:00:00.000Z|Location: Ice Castle Arena\n   (Arrival Time: 10:30 AM (Central Time (US & Canada)))||",
-      "summary": "18UAA (2008/2009) - Pittsburgh Winter Classic",
-      "when": "Sat, Dec 12, 2026, 12:00 AM CST"
-    },
-    "10621788-370206888": {
-      "sig": "18UAA (2008/2009) - Pittsburgh Winter Classic|990 Castle Shannon Blvd\nPittsburgh PA 15234\nUnited States|2026-12-13T06:00:00.000Z|2026-12-14T06:00:00.000Z|Location: Ice Castle Arena\n   (Arrival Time: 10:30 AM (Central Time (US & Canada)))||",
-      "summary": "18UAA (2008/2009) - Pittsburgh Winter Classic",
-      "when": "Sun, Dec 13, 2026, 12:00 AM CST"
     },
     "10621788-370206975": {
       "sig": "18UAA (2008/2009) - TPH Music City Winter Classic|7638B Hwy 70 S\nNashville TN 37221\nUnited States|2027-01-01T06:00:00.000Z|2027-01-02T06:00:00.000Z|Location: Ford Ice Center\n   (Arrival Time: 10:30 AM (Central Time (US & Canada)))||",
