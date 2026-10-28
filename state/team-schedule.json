@@ -1,7 +1,7 @@
 {
   "name": "Warriors 18UAA",
   "url": "webcal://ical-cdn.teamsnap.com/team_schedule/ed2ea8c0-4e36-433f-aa21-f7f0557d86b4.ics",
-  "updatedAt": "2026-10-27T05:45:58.668Z",
+  "updatedAt": "2026-10-28T06:24:37.965Z",
   "events": {
     "10621788-368980308": {
       "sig": "18UAA (2008/2009) - Gym|7235 Haley Industrial Drive Nolensville, TN 37135|2026-08-05T00:30:06.000Z|2026-08-05T01:30:06.000Z|Location: Nolensville Ice Arena\n There will be a brief players meeting upstairs in the video room @ 7:30pm. Please be on time !!\n\nMake sure players have the appropriate workout attire:\n\nRunning shoes\nShorts/sweat pants\n\nFlip flops, crocs and I forgot are not acceptable.  (Arrival Time:  7:30 PM (Central Time (US & Canada)))||",
@@ -852,6 +852,21 @@
       "sig": "18UAA (2008/2009) at Aurora Tigers|7235 Haley Industrial Drive Nolensville, TN 37135|2026-10-25T17:20:14.000Z|2026-10-25T17:20:14.000Z|Location: Nolensville Ice Arena\n   (Arrival Time: 12:20 PM (Central Time (US & Canada)))||",
       "summary": "18UAA (2008/2009) at Aurora Tigers",
       "when": "Sun, Oct 25, 2026, 12:20 PM CDT"
+    },
+    "10621788-375686011": {
+      "sig": "18UAA (2008/2009) - Jax Holiday Classic|3605 Philips Hwy\nJacksonville FL 32207\nUnited States|2026-12-04T06:00:00.000Z|2026-12-05T06:00:00.000Z|Location: Community First Igloo\n   (Arrival Time:  2:00 PM (Central Time (US & Canada)))||",
+      "summary": "18UAA (2008/2009) - Jax Holiday Classic",
+      "when": "Fri, Dec 4, 2026, 12:00 AM CST"
+    },
+    "10621788-375686012": {
+      "sig": "18UAA (2008/2009) - Jax Holiday Classic|3605 Philips Hwy\nJacksonville FL 32207\nUnited States|2026-12-05T06:00:00.000Z|2026-12-06T06:00:00.000Z|Location: Community First Igloo\n   (Arrival Time:  2:00 PM (Central Time (US & Canada)))||",
+      "summary": "18UAA (2008/2009) - Jax Holiday Classic",
+      "when": "Sat, Dec 5, 2026, 12:00 AM CST"
+    },
+    "10621788-375686013": {
+      "sig": "18UAA (2008/2009) - Jax Holiday Classic|3605 Philips Hwy\nJacksonville FL 32207\nUnited States|2026-12-06T06:00:00.000Z|2026-12-07T06:00:00.000Z|Location: Community First Igloo\n   (Arrival Time:  2:00 PM (Central Time (US & Canada)))||",
+      "summary": "18UAA (2008/2009) - Jax Holiday Classic",
+      "when": "Sun, Dec 6, 2026, 12:00 AM CST"
     }
   }
 }
