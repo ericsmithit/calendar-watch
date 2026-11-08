@@ -1,7 +1,7 @@
 {
   "name": "Warriors 18UAA",
   "url": "webcal://ical-cdn.teamsnap.com/team_schedule/ed2ea8c0-4e36-433f-aa21-f7f0557d86b4.ics",
-  "updatedAt": "2026-11-05T07:28:38.911Z",
+  "updatedAt": "2026-11-08T06:46:45.193Z",
   "events": {
     "10621788-368980308": {
       "sig": "18UAA (2008/2009) - Gym|7235 Haley Industrial Drive Nolensville, TN 37135|2026-08-05T00:30:06.000Z|2026-08-05T01:30:06.000Z|Location: Nolensville Ice Arena\n There will be a brief players meeting upstairs in the video room @ 7:30pm. Please be on time !!\n\nMake sure players have the appropriate workout attire:\n\nRunning shoes\nShorts/sweat pants\n\nFlip flops, crocs and I forgot are not acceptable.  (Arrival Time:  7:30 PM (Central Time (US & Canada)))||",
@@ -633,16 +633,6 @@
       "summary": "18UAA (2008/2009) vs Team Kentucky",
       "when": "Sun, Aug 30, 2026, 12:45 PM CDT"
     },
-    "10621788-370206762": {
-      "sig": "18UAA (2008/2009) - 4th game TBD|Chicago IL\nUnited States|2026-11-07T20:30:40.000Z|2026-11-08T02:30:40.000Z|Location: Chicago\n   (Arrival Time:  2:30 PM (Central Time (US & Canada)))||",
-      "summary": "18UAA (2008/2009) - 4th game TBD",
-      "when": "Sat, Nov 7, 2026, 2:30 PM CST"
-    },
-    "10621788-370206763": {
-      "sig": "18UAA (2008/2009) - Semis 8:45am/Champ 1:15pm|10700 W 160th St\nOrland Park IL 60467\nUnited States|2026-11-08T06:00:00.000Z|2026-11-09T06:00:00.000Z|Location: Arctic Ice Arena\n   (Arrival Time: 10:25 AM (Central Time (US & Canada)))||",
-      "summary": "18UAA (2008/2009) - Semis 8:45am/Champ 1:15pm",
-      "when": "Sun, Nov 8, 2026, 12:00 AM CST"
-    },
     "10621788-370206975": {
       "sig": "18UAA (2008/2009) - TPH Music City Winter Classic|7638B Hwy 70 S\nNashville TN 37221\nUnited States|2027-01-01T06:00:00.000Z|2027-01-02T06:00:00.000Z|Location: Ford Ice Center\n   (Arrival Time: 10:30 AM (Central Time (US & Canada)))||",
       "summary": "18UAA (2008/2009) - TPH Music City Winter Classic",
@@ -877,6 +867,16 @@
       "sig": "18UAA (2008/2009) - Consolation 10:30/Championship 12:15|5264 Hickory Hollow Pkwy\nAntioch TN 37013\nUnited States|2026-11-15T06:00:00.000Z|2026-11-16T06:00:00.000Z|Location: Ford Ice Center\n   (Arrival Time:  4:20 PM (Central Time (US & Canada)))||",
       "summary": "18UAA (2008/2009) - Consolation 10:30/Championship 12:15",
       "when": "Sun, Nov 15, 2026, 12:00 AM CST"
+    },
+    "10621788-376164532": {
+      "sig": "18UAA (2008/2009) vs Carolina Jr Hurricanes Black|11505 S Western Ave\nChicago IL 60643\nUnited States|2026-11-08T01:05:59.000Z|2026-11-08T01:05:59.000Z|Location: Morgan Park Sports Center\n   (Arrival Time:  5:50 PM (Central Time (US & Canada)))||",
+      "summary": "18UAA (2008/2009) vs Carolina Jr Hurricanes Black",
+      "when": "Sat, Nov 7, 2026, 7:05 PM CST"
+    },
+    "10621788-376174487": {
+      "sig": "18UAA (2008/2009) vs Omaha Jr. Lancers|10700 W 160th St\nOrland Park IL 60467\nUnited States|2026-11-08T14:45:57.000Z|2026-11-08T14:45:57.000Z|Location: Arctic Ice Arena - NHL rink\n   (Arrival Time:  7:30 AM (Central Time (US & Canada)))||",
+      "summary": "18UAA (2008/2009) vs Omaha Jr. Lancers",
+      "when": "Sun, Nov 8, 2026, 8:45 AM CST"
     }
   }
 }
