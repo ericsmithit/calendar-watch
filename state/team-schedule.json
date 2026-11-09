@@ -1,7 +1,7 @@
 {
   "name": "Warriors 18UAA",
   "url": "webcal://ical-cdn.teamsnap.com/team_schedule/ed2ea8c0-4e36-433f-aa21-f7f0557d86b4.ics",
-  "updatedAt": "2026-11-08T06:46:45.193Z",
+  "updatedAt": "2026-11-09T22:45:40.781Z",
   "events": {
     "10621788-368980308": {
       "sig": "18UAA (2008/2009) - Gym|7235 Haley Industrial Drive Nolensville, TN 37135|2026-08-05T00:30:06.000Z|2026-08-05T01:30:06.000Z|Location: Nolensville Ice Arena\n There will be a brief players meeting upstairs in the video room @ 7:30pm. Please be on time !!\n\nMake sure players have the appropriate workout attire:\n\nRunning shoes\nShorts/sweat pants\n\nFlip flops, crocs and I forgot are not acceptable.  (Arrival Time:  7:30 PM (Central Time (US & Canada)))||",
@@ -374,8 +374,8 @@
       "when": "Thu, Nov 5, 2026, 7:45 PM CST"
     },
     "10621788-368980496": {
-      "sig": "18UAA (2008/2009) - Gym|7235 Haley Industrial Drive Nolensville, TN 37135|2026-11-13T01:45:11.000Z|2026-11-13T02:45:11.000Z|Location: Nolensville Ice Arena\n   (Arrival Time:  7:45 PM (Central Time (US & Canada)))||",
-      "summary": "18UAA (2008/2009) - Gym",
+      "sig": "[CANCELED] 18UAA (2008/2009) - Gym|7235 Haley Industrial Drive Nolensville, TN 37135|2026-11-13T01:45:11.000Z|2026-11-13T02:45:11.000Z|[CANCELED] Location: Nolensville Ice Arena||",
+      "summary": "[CANCELED] 18UAA (2008/2009) - Gym",
       "when": "Thu, Nov 12, 2026, 7:45 PM CST"
     },
     "10621788-368980497": {
@@ -522,11 +522,6 @@
       "sig": "[CANCELED] 18UAA (2008/2009) - Ice|7235 Haley Industrial Drive Nolensville, TN 37135|2026-11-06T03:00:17.000Z|2026-11-06T04:00:17.000Z|[CANCELED] Location: Nolensville Ice Arena||",
       "summary": "[CANCELED] 18UAA (2008/2009) - Ice",
       "when": "Thu, Nov 5, 2026, 9:00 PM CST"
-    },
-    "10621788-368980561": {
-      "sig": "18UAA (2008/2009) - Ice|7235 Haley Industrial Drive Nolensville, TN 37135|2026-11-13T03:00:17.000Z|2026-11-13T04:00:17.000Z|Location: Nolensville Ice Arena\n   (Arrival Time:  9:00 PM (Central Time (US & Canada)))||",
-      "summary": "18UAA (2008/2009) - Ice",
-      "when": "Thu, Nov 12, 2026, 9:00 PM CST"
     },
     "10621788-368980562": {
       "sig": "18UAA (2008/2009) - Ice|7235 Haley Industrial Drive Nolensville, TN 37135|2026-11-20T03:00:17.000Z|2026-11-20T04:00:17.000Z|Location: Nolensville Ice Arena\n   (Arrival Time:  9:00 PM (Central Time (US & Canada)))||",
@@ -849,9 +844,9 @@
       "when": "Fri, Nov 6, 2026, 1:15 PM CST"
     },
     "10621788-376057985": {
-      "sig": "18UAA (2008/2009) at Nashville Jr. Predators|7638B Hwy 70 S\nNashville TN 37221\nUnited States|2026-11-13T20:45:32.000Z|2026-11-13T20:45:32.000Z|Location: Ford Ice Center\n   (Arrival Time:  1:30 PM (Central Time (US & Canada)))||",
+      "sig": "18UAA (2008/2009) at Nashville Jr. Predators|7638B Hwy 70 S\nNashville TN 37221\nUnited States|2026-11-13T03:00:32.000Z|2026-11-13T03:00:32.000Z|Location: Ford Ice Center\n   (Arrival Time:  7:45 PM (Central Time (US & Canada)))||",
       "summary": "18UAA (2008/2009) at Nashville Jr. Predators",
-      "when": "Fri, Nov 13, 2026, 2:45 PM CST"
+      "when": "Thu, Nov 12, 2026, 9:00 PM CST"
     },
     "10621788-376058049": {
       "sig": "18UAA (2008/2009) at Nashville Flyers|5264 Hickory Hollow Pkwy\nAntioch TN 37013\nUnited States|2026-11-14T03:30:15.000Z|2026-11-14T03:30:15.000Z|Location: Ford Ice Center\n   (Arrival Time:  8:15 PM (Central Time (US & Canada)))||",
@@ -877,6 +872,11 @@
       "sig": "18UAA (2008/2009) vs Omaha Jr. Lancers|10700 W 160th St\nOrland Park IL 60467\nUnited States|2026-11-08T14:45:57.000Z|2026-11-08T14:45:57.000Z|Location: Arctic Ice Arena - NHL rink\n   (Arrival Time:  7:30 AM (Central Time (US & Canada)))||",
       "summary": "18UAA (2008/2009) vs Omaha Jr. Lancers",
       "when": "Sun, Nov 8, 2026, 8:45 AM CST"
+    },
+    "10621788-376250070": {
+      "sig": "18UAA (2008/2009) - Ice|7235 Haley Industrial Drive Nolensville, TN 37135|2026-11-12T02:00:26.000Z|2026-11-12T03:00:26.000Z|Location: Nolensville Ice Arena\n   (Arrival Time:  8:00 PM (Central Time (US & Canada)))||",
+      "summary": "18UAA (2008/2009) - Ice",
+      "when": "Wed, Nov 11, 2026, 8:00 PM CST"
     }
   }
 }
