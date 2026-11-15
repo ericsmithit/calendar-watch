@@ -1,7 +1,7 @@
 {
   "name": "Warriors 18UAA",
   "url": "webcal://ical-cdn.teamsnap.com/team_schedule/ed2ea8c0-4e36-433f-aa21-f7f0557d86b4.ics",
-  "updatedAt": "2026-11-09T22:45:40.781Z",
+  "updatedAt": "2026-11-15T07:18:33.311Z",
   "events": {
     "10621788-368980308": {
       "sig": "18UAA (2008/2009) - Gym|7235 Haley Industrial Drive Nolensville, TN 37135|2026-08-05T00:30:06.000Z|2026-08-05T01:30:06.000Z|Location: Nolensville Ice Arena\n There will be a brief players meeting upstairs in the video room @ 7:30pm. Please be on time !!\n\nMake sure players have the appropriate workout attire:\n\nRunning shoes\nShorts/sweat pants\n\nFlip flops, crocs and I forgot are not acceptable.  (Arrival Time:  7:30 PM (Central Time (US & Canada)))||",
@@ -858,11 +858,6 @@
       "summary": "18UAA (2008/2009) vs Hamburg Hawks",
       "when": "Sat, Nov 14, 2026, 5:30 PM CST"
     },
-    "10621788-376058260": {
-      "sig": "18UAA (2008/2009) - Consolation 10:30/Championship 12:15|5264 Hickory Hollow Pkwy\nAntioch TN 37013\nUnited States|2026-11-15T06:00:00.000Z|2026-11-16T06:00:00.000Z|Location: Ford Ice Center\n   (Arrival Time:  4:20 PM (Central Time (US & Canada)))||",
-      "summary": "18UAA (2008/2009) - Consolation 10:30/Championship 12:15",
-      "when": "Sun, Nov 15, 2026, 12:00 AM CST"
-    },
     "10621788-376164532": {
       "sig": "18UAA (2008/2009) vs Carolina Jr Hurricanes Black|11505 S Western Ave\nChicago IL 60643\nUnited States|2026-11-08T01:05:59.000Z|2026-11-08T01:05:59.000Z|Location: Morgan Park Sports Center\n   (Arrival Time:  5:50 PM (Central Time (US & Canada)))||",
       "summary": "18UAA (2008/2009) vs Carolina Jr Hurricanes Black",
@@ -877,6 +872,11 @@
       "sig": "18UAA (2008/2009) - Ice|7235 Haley Industrial Drive Nolensville, TN 37135|2026-11-12T02:00:26.000Z|2026-11-12T03:00:26.000Z|Location: Nolensville Ice Arena\n   (Arrival Time:  8:00 PM (Central Time (US & Canada)))||",
       "summary": "18UAA (2008/2009) - Ice",
       "when": "Wed, Nov 11, 2026, 8:00 PM CST"
+    },
+    "10621788-376461931": {
+      "sig": "18UAA (2008/2009) vs Hamburg Hawks|5264 Hickory Hollow Pkwy\nAntioch TN 37013\nUnited States|2026-11-15T16:30:51.000Z|2026-11-15T16:30:51.000Z|Location: Ford Ice Center - South rink\n   (Arrival Time:  9:15 AM (Central Time (US & Canada)))||",
+      "summary": "18UAA (2008/2009) vs Hamburg Hawks",
+      "when": "Sun, Nov 15, 2026, 10:30 AM CST"
     }
   }
 }
